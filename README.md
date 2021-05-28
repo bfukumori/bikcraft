@@ -21,12 +21,12 @@
 
 <h3>Web</h3>
 <div align="center">
-    <img alt="bikcraft-web" title="#bikcraft-web" src="/web.PNG">
+    <img alt="bikcraft-web" title="#bikcraft-web" src="assets/web.PNG">
 </div>
 
 <h3>Mobile</h3>
 <div align="center">
-    <img alt="bikcraft-mobile" title="#bikcraft-mobile" src="/mobile.PNG" width="50%">
+    <img alt="bikcraft-mobile" title="#bikcraft-mobile" src="assets/mobile.PNG" width="50%">
 </div>
 
 ---
